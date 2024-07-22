@@ -126,7 +126,7 @@ canvas {
   transition: transform 0.3s ease;
 }
 .checkBox .group .imgs {
-  width: 100%;
+  width: 96%;
   display: flex;
   align-items: center;
   justify-content: space-between;
